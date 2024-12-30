@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Exploring the Future of AI",
+      "author": "Saif Karim",
+      "author_img": "https://i.ibb.co.com/D4JWDtp/bearded-man-with-a-stylish-hairstyle-sits-on-an-armchair-and-reads-a-book.jpg",
+      "posted_date": "2024-12-01",
+      "reading_time": 5,
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Mastering Web Development",
+      "author": "Saif Karim",
+      "author_img": "https://i.ibb.co.com/D4JWDtp/bearded-man-with-a-stylish-hairstyle-sits-on-an-armchair-and-reads-a-book.jpg",
+      "posted_date": "2024-12-02",
+      "reading_time": 7,
+      "hashtags": ["#WebDev", "#JavaScript", "#CSS"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Top 10 Travel Destinations",
+      "author": "Saif Karim",
+      "author_img": "https://i.ibb.co.com/D4JWDtp/bearded-man-with-a-stylish-hairstyle-sits-on-an-armchair-and-reads-a-book.jpg",
+      "posted_date": "2024-12-03",
+      "reading_time": 6,
+      "hashtags": ["#Travel", "#Adventure", "#Guide"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "The Art of Minimalism",
+      "author": "Saif Karim",
+      "author_img": "https://i.ibb.co.com/D4JWDtp/bearded-man-with-a-stylish-hairstyle-sits-on-an-armchair-and-reads-a-book.jpg",
+      "posted_date": "2024-12-04",
+      "reading_time": 4,
+      "hashtags": ["#Minimalism", "#Lifestyle", "#Wellness"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "A Beginner's Guide to Cooking",
+      "author": "Saif Karim",
+      "author_img": "https://i.ibb.co.com/D4JWDtp/bearded-man-with-a-stylish-hairstyle-sits-on-an-armchair-and-reads-a-book.jpg",
+      "posted_date": "2024-12-05",
+      "reading_time": 8,
+      "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    }
+  ]
+  
